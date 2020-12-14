@@ -1,4 +1,4 @@
-class BrewManage < Formula
+class AmzSsh < Formula
   desc "Tool that enables ec2-instance-connect"
   homepage "https://github.com/nodefortytwo/amz-ssh"
   url "https://github.com/nodefortytwo/amz-ssh/releases/download/2.0.1/amz-ssh_2.0.1_darwin_amd64.tar.gz"
